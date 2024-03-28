@@ -76,3 +76,7 @@ resetButton.addEventListener("click", () => {
 window.onload = () => {
    startGame();
 };
+
+
+
+
